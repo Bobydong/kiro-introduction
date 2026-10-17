@@ -1,0 +1,13 @@
+{
+  "name": "flappy-kiro-game",
+  "version": "1.0.0",
+  "description": "Flappy Bird-style arcade game built with HTML5 Canvas + vanilla JS (ES modules).",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "fast-check": "^3.23.1",
+    "vitest": "^2.1.8"
+  }
+}
